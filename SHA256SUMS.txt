@@ -1,0 +1,1 @@
+6c5997c3ba083308c61dcc1bf76b4921e849812dbdbad2f1b774ccf0560ebfdd  videocopyer-0.5.0-beta.2-public.1-windows-x64.zip
